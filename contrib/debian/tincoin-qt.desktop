@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tincoin
+Comment=Tincoin P2P Cryptocurrency
+Comment[fr]=Tincoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Tincoin, eşten eşe kriptografik sanal para birimi
+Exec=tincoin-qt %u
+Terminal=false
+Type=Application
+Icon=tincoin128
+MimeType=x-scheme-handler/tincoin;
+Categories=Office;Finance;

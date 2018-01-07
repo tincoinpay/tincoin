@@ -1,0 +1,11 @@
+[Protocol]
+exec=tincoin-qt '%u'
+protocol=tincoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

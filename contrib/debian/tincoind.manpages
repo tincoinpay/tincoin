@@ -1,0 +1,3 @@
+debian/manpages/tincoind.1
+debian/manpages/tincoin.conf.5
+debian/manpages/tincoin-cli.1

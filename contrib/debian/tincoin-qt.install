@@ -1,0 +1,6 @@
+usr/local/bin/tincoin-qt usr/bin
+share/pixmaps/tincoin32.xpm usr/share/pixmaps
+share/pixmaps/tincoin16.xpm usr/share/pixmaps
+share/pixmaps/tincoin128.png usr/share/pixmaps
+debian/tincoin-qt.desktop usr/share/applications
+debian/tincoin-qt.protocol usr/share/kde4/services/
